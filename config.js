@@ -14,5 +14,5 @@ const CONFIG = {
     mess: 'A bt maaa 😙 . iuemmm nhiều 😘',
     messDesc: 'Set rela nhoa:33',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'http://fb.com/khangthieulang' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    messLink: 'https://m.me/khangthieulang' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
